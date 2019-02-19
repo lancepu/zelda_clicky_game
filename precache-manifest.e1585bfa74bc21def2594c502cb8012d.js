@@ -4,20 +4,20 @@ self.__precacheManifest = [
     "url": "/zelda_clicky_game/static/media/kass.7b5fb5d9.png"
   },
   {
-    "revision": "a850b5394b14076f2acc",
-    "url": "/zelda_clicky_game/static/css/main.2ca233b7.chunk.css"
+    "revision": "d0441ccc781f4bf2dfc1",
+    "url": "/zelda_clicky_game/static/css/main.e50656e6.chunk.css"
   },
   {
     "revision": "cd120193f4af5598ae88",
     "url": "/zelda_clicky_game/static/js/runtime~main.cd120193.js"
   },
   {
-    "revision": "8531d333ce09a69d32159c72fe4971fb",
-    "url": "/zelda_clicky_game/static/media/hyliaserifbeta-regular-webfont.8531d333.woff2"
+    "revision": "7ae50c8d9cf1173ad1579a7a613949f4",
+    "url": "/zelda_clicky_game/static/media/hyliaserifbeta-regular-webfont.7ae50c8d.woff"
   },
   {
-    "revision": "c741fa9d91f2dd500e04",
-    "url": "/zelda_clicky_game/static/js/2.c741fa9d.chunk.js"
+    "revision": "8239b5a970193dbff9a3",
+    "url": "/zelda_clicky_game/static/js/2.8239b5a9.chunk.js"
   },
   {
     "revision": "36af0a29939cb526c24bbd11248faf89",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/zelda_clicky_game/static/media/guardian.596cf77b.png"
   },
   {
-    "revision": "a850b5394b14076f2acc",
-    "url": "/zelda_clicky_game/static/js/main.a850b539.chunk.js"
+    "revision": "d0441ccc781f4bf2dfc1",
+    "url": "/zelda_clicky_game/static/js/main.d0441ccc.chunk.js"
   },
   {
     "revision": "d95f92cde5fcc267e77a5d181ea02a04",
@@ -68,15 +68,15 @@ self.__precacheManifest = [
     "url": "/zelda_clicky_game/static/media/zelda.26b552fc.png"
   },
   {
-    "revision": "7ae50c8d9cf1173ad1579a7a613949f4",
-    "url": "/zelda_clicky_game/static/media/hyliaserifbeta-regular-webfont.7ae50c8d.woff"
+    "revision": "8531d333ce09a69d32159c72fe4971fb",
+    "url": "/zelda_clicky_game/static/media/hyliaserifbeta-regular-webfont.8531d333.woff2"
   },
   {
-    "revision": "c741fa9d91f2dd500e04",
-    "url": "/zelda_clicky_game/static/css/2.d35a7924.chunk.css"
+    "revision": "8239b5a970193dbff9a3",
+    "url": "/zelda_clicky_game/static/css/2.b8bc0fda.chunk.css"
   },
   {
-    "revision": "d20b6e0a1ae4fee587744d2d3139212c",
+    "revision": "d1dc4db333f0a560cf06202c1d8e44cb",
     "url": "/zelda_clicky_game/index.html"
   }
 ];

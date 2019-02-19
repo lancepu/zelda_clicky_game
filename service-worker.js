@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zelda_clicky_game/precache-manifest.bcf1a1aed6c5912adb3dc0fa0c7763e8.js"
+  "/zelda_clicky_game/precache-manifest.e1585bfa74bc21def2594c502cb8012d.js"
 );
 
 workbox.clientsClaim();

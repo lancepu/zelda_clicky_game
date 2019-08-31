@@ -2,43 +2,43 @@ export default function getImage(id) {
   let imgLocation = "";
   switch (id) {
     case 1:
-      imgLocation = "./zelda.png";
+      imgLocation = "./zelda.webp";
       break;
     case 2:
-      imgLocation = "./urbosa.png";
+      imgLocation = "./urbosa.webp";
       break;
     case 3:
-      imgLocation = "./revali.png";
+      imgLocation = "./revali.webp";
       break;
     case 4:
-      imgLocation = "./mipha.png";
+      imgLocation = "./mipha.webp";
       break;
     case 5:
-      imgLocation = "./lynel.png";
+      imgLocation = "./lynel.webp";
       break;
     case 6:
-      imgLocation = "./link.png";
+      imgLocation = "./link.webp";
       break;
     case 7:
-      imgLocation = "./kass.png";
+      imgLocation = "./kass.webp";
       break;
     case 8:
-      imgLocation = "./guardian.png";
+      imgLocation = "./guardian.webp";
       break;
     case 9:
-      imgLocation = "./gannon.png";
+      imgLocation = "./gannon.webp";
       break;
     case 10:
-      imgLocation = "./epona.png";
+      imgLocation = "./epona.webp";
       break;
     case 11:
-      imgLocation = "./daruk.png";
+      imgLocation = "./daruk.webp";
       break;
     case 12:
-      imgLocation = "./bokoblin.png";
+      imgLocation = "./bokoblin.webp";
       break;
     default:
-      imgLocation = "./link.png";
+      imgLocation = "./link.webp";
   }
 
   return imgLocation;
